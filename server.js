@@ -1,4 +1,3 @@
-javascript
 // STINT 2026 챗봇 - 관리자 비밀번호 이메일 발송 서버 (Gmail SMTP 버전)
 // nodemailer + Gmail 앱 비밀번호를 사용합니다. 완전 무료 (하루 500통 한도).
 
